@@ -1,0 +1,23 @@
+D:\programs\DBS lab\Project\MovieManagementSystem\MovieManagementSystem\bin\Debug\MovieManagementSystem.exe.config
+D:\programs\DBS lab\Project\MovieManagementSystem\MovieManagementSystem\bin\Debug\MovieManagementSystem.exe
+D:\programs\DBS lab\Project\MovieManagementSystem\MovieManagementSystem\bin\Debug\MovieManagementSystem.pdb
+D:\programs\DBS lab\Project\MovieManagementSystem\MovieManagementSystem\obj\Debug\MovieManagementSystem.csprojResolveAssemblyReference.cache
+D:\programs\DBS lab\Project\MovieManagementSystem\MovieManagementSystem\obj\Debug\MovieManagementSystem.Form1.resources
+D:\programs\DBS lab\Project\MovieManagementSystem\MovieManagementSystem\obj\Debug\MovieManagementSystem.Form2.resources
+D:\programs\DBS lab\Project\MovieManagementSystem\MovieManagementSystem\obj\Debug\MovieManagementSystem.Properties.Resources.resources
+D:\programs\DBS lab\Project\MovieManagementSystem\MovieManagementSystem\obj\Debug\MovieManagementSystem.csproj.GenerateResource.Cache
+D:\programs\DBS lab\Project\MovieManagementSystem\MovieManagementSystem\obj\Debug\MovieManagementSystem.exe
+D:\programs\DBS lab\Project\MovieManagementSystem\MovieManagementSystem\obj\Debug\MovieManagementSystem.pdb
+D:\programs\DBS lab\Project\MovieManagementSystem\MovieManagementSystem\obj\Debug\MovieManagementSystem.CreateMovie.resources
+D:\programs\DBS lab\Project\MovieManagementSystem\MovieManagementSystem\obj\Debug\MovieManagementSystem.CreateCinema.resources
+D:\programs\DBS lab\Project\MovieManagementSystem\MovieManagementSystem\obj\Debug\MovieManagementSystem.CreateSceen.resources
+D:\programs\DBS lab\Project\MovieManagementSystem\MovieManagementSystem\obj\Debug\MovieManagementSystem.MapTiming.resources
+D:\programs\DBS lab\Project\MovieManagementSystem\MovieManagementSystem\obj\Debug\MovieManagementSystem.Seating.resources
+D:\programs\DBS lab\Project\MovieManagementSystem\MovieManagementSystem\obj\Debug\MovieManagementSystem.book_tickets.resources
+D:\programs\DBS lab\Project\MovieManagementSystem\MovieManagementSystem\obj\Debug\MovieManagementSystem.Receipt.resources
+D:\programs\DBS lab\Project\MovieManagementSystem\MovieManagementSystem\obj\Debug\MovieManagementSystem.theatretable.resources
+D:\programs\DBS lab\Project\MovieManagementSystem\MovieManagementSystem\obj\Debug\MovieManagementSystem.Transaction.resources
+D:\programs\DBS lab\Project\MovieManagementSystem\MovieManagementSystem\obj\Debug\MovieManagementSystem.ViewMovies.resources
+F:\MovieManagementSystem\bin\Debug\MovieManagementSystem.exe.config
+F:\MovieManagementSystem\obj\Debug\MovieManagementSystem.exe
+F:\MovieManagementSystem\obj\Debug\MovieManagementSystem.pdb
